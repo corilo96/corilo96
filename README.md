@@ -1,5 +1,6 @@
 <p align="center">
-<img src="[https://github.com/wenlo-luo/corilo96/issues/6](https://github.com/wenlo-luo/corilo96/issues/6)" width="900">
+<img src="[[https://github.com/wenlo-luo/corilo96/issues/6](https://github.com/wenlo-luo/corilo96/issues/6)](https://private-user-images.githubusercontent.com/312029612/694261849‑53cdb28b‑d696‑4cb7‑b4f1‑d1fd8f807bbe.png?jwt=xxx
+)" width="900">
 </p>
 
 <p align="center">
