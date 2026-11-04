@@ -2,10 +2,6 @@
 <img src="download.png" width="900">
 </p>
 
-<p align="center">
-TypeScript · React · Node.js · Go · Kotlin · Swift · Python · Shell · Cloudflare Workers
-</p>
-
 <table width="100%">
   <tr>
     <td align="center" width="25%" valign="top">
