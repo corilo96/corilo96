@@ -7,7 +7,7 @@
       <img src="https://raw.githubusercontent.com/wenlo-luo/agent-skill-forge/main/package-light.svg" alt="包工头" width="220">
       <br>
       <a href="https://github.com/wenlo-luo/agent-skill-forge">curated-agent-skills</a>
-      <p>主推·找包工头点这里<br>两枚 skill，审阅脱敏后公开。<br>✅ 包工头派活并验收<br>⚠️ 2 个 skill，先装 Herdr<br>适合 跨 CLI 派活、长任务<br>不适合 单文件小改<br>→ <a href="https://github.com/wenlo-luo/agent-skill-forge">包工头·全部</a></p>
+      <p>主推·找包工头点这里<br>两枚 skill，审阅脱敏后公开。<br>✅ 包工头派活并验收<br>⚠️ 2 个 skill，先装 Herdr<br>适合 跨 CLI 派活、长任务<br>不适合 单文件小改、临时问答<br>→ <a href="https://github.com/wenlo-luo/agent-skill-forge">包工头·全部</a></p>
     </td>
     <td align="center" width="25%" valign="top">
       <img src="https://raw.githubusercontent.com/wenlo-luo/keyseal/main/keyseal-light.png" alt="keyseal" width="220">
