@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/wenlo-luo/agent-skill-forge/main/download.png" width="900">
+<img src="download.png" width="900">
 </p>
 <table width="100%">
   <tr>
