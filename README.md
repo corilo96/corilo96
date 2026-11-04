@@ -34,6 +34,7 @@
 <p align="center">
 怎么选 — 派活 → 包工头；给密钥 → keyseal；要团队 → wenlo-bot；缺节点 → Hy2-veil。
 </p>
+
 <p align="center">
-自用：<a href="#">kindle-gadget（越狱 Kindle 看板）</a> · <a href="#">easy-unlocker-site</a> · <a href="https://github.com/wenlo-luo/dycop-public">dycop-public</a>
+自用：<a href="https://github.com/cyancity/kindle-gadget">kindle-gadget（越狱 Kindle 看板）</a> · <a href="https://github.com/wenlo-luo/keyseal">keyseal</a> · <a href="https://github.com/wenlo-luo/dycop-public">dycop-public</a>
 </p>
