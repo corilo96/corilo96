@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-自用：<a href="https://github.com/cyancity/kindle-gadget">kindle-gadget（越狱 Kindle 看板）</a> · <a href="https://github.com/wenlo-luo/keyseal">keyseal</a> · <a href="https://github.com/wenlo-luo/dycop-public">dycop-public</a>
+自用：<a href="https://github.com/wenlo-luo/kindle-gadget">kindle-gadget（越狱 Kindle 看板）</a> · <a href="https://github.com/wenlo-luo/keyseal">keyseal</a> · <a href="https://github.com/wenlo-luo/dycop-public">dycop-public</a>
 </p>
