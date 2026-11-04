@@ -1,9 +1,10 @@
-
+<p align="center">
+<img src="[https://github.com/wenlo-luo/corilo96/issues/6](https://github.com/wenlo-luo/corilo96/issues/6)" width="900">
+</p>
 
 <p align="center">
 TypeScript · React · Node.js · Go · Kotlin · Swift · Python · Shell · Cloudflare Workers
 </p>
-
 <table width="100%">
   <tr>
     <td align="center" width="25%">
@@ -27,12 +28,9 @@ TypeScript · React · Node.js · Go · Kotlin · Swift · Python · Shell · Cl
     </td>
   </tr>
 </table>
-
 <p align="center">
 怎么选 — 派活 → 包工头；给密钥 → easy-unlocker；要团队 → yolo-bot；缺节点 → hy2。
 </p>
-
-
 <p align="center">
 自用：<a href="#">kindle-gadget（越狱 Kindle 看板）</a> · <a href="#">easy-unlocker-site</a> · <a href="#">dycopy-public</a>
 </p>
